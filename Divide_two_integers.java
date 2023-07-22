@@ -4,7 +4,7 @@ class Solution {
          
         boolean negative = dividend < 0 ^ divisor < 0; //Logical XOR will help in deciding if the results is negative only if any one of them is negative
         
-        dividend = Math.abs(dividend);
+        dividend = Math.abs(dividend);//abs is used because to convert the sign to positive 
         divisor = Math.abs(divisor);
         int quotient = 0, subQuot = 0;
         
