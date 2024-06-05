@@ -1,14 +1,15 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        int x=0;
-        for(String s:operations){
-            if(s.charAt(0)=='-' || s.charAt(1)=='-'){
-                x=x-1;
+        int result = 0;
+        for(int i=0;i<operations.length;i++){
+            String ans = operations[i];
+            if(ans.charAt(0)=='-' || ans.charAt(1)=='-'){
+                result-=1;
             }
-            if(s.charAt(0)=='+' || s.charAt(1)=='+'){
-                x=x+1;
+            if(ans.charAt(0)=='+' || ans.charAt(1)=='+'){
+                result+=1;
             }
         }
-        return x;
+        return result;
     }
 }
