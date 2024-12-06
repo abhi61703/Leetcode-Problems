@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhi61703/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/abhi61703/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi61703/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -44,18 +45,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi61703/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi61703/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi61703/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
