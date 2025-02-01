@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/abhi61703/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
+| [3429-special-array-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi61703/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
