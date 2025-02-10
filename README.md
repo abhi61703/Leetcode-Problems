@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhi61703/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/abhi61703/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
+| [3447-clear-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -83,9 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/abhi61703/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
