@@ -107,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhi61703/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhi61703/Leetcode-Problems/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhi61703/Leetcode-Problems/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhi61703/Leetcode-Problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhi61703/Leetcode-Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
