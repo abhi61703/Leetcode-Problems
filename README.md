@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/abhi61703/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [1364-tuple-with-same-product](https://github.com/abhi61703/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi61703/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi61703/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi61703/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
