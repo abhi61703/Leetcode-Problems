@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi61703/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/abhi61703/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhi61703/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhi61703/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi61703/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi61703/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhi61703/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/abhi61703/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhi61703/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhi61703/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi61703/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhi61703/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
