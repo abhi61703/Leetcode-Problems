@@ -1,6 +1,12 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
-        String base3 = Integer.toString(n, 3);
-        return !base3.contains("2");
+          while (n > 0) {
+            int remainder = n % 3;
+            if (remainder == 2) {
+                return false;
+            }
+            n = n / 3;
+        }
+        return true;  
     }
 }
